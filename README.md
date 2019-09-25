@@ -1,6 +1,6 @@
 # archimedes-pi
 
-Approximate pi with Archimede's method using polygons.
+Approximate pi with Archimedes' method using polygons.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ It has intrigued mathematicians for thousands of years.
 
 Yet, already around 250
 BC the greek mathematician Archimedes developed a simple but ingenious algorithm
-the approximate &pi;:
+to approximate &pi;:
 
 ![Approximation strategy](./static/archimedes_pi.svg)
 
