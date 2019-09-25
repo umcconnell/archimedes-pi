@@ -1,6 +1,6 @@
 # archimedes-pi
 
-Approximate pi with Archimede's method using polygons.
+Approximate pi with Archimedes' method using polygons.
 
 ## Table of Contents
 
